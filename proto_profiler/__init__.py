@@ -12,3 +12,4 @@ from profiler import (  # noqa
     ProtoTimer,
     StackTimer,
 )
+from trace_pb2 import Trace, TraceTouch  # noqa
