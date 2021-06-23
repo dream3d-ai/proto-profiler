@@ -6,7 +6,7 @@
 # python
 *.pyc
 *.egg-info
-python/dist
-python/dist/*
+dist/
 */__pycache__/*
 *.mypy_cache/
+
