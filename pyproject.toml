@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "proto-profiler"
-version = "0.1.0"
+version = "0.1.2"
 description = "Profiler for stream of Protobuf messages"
 license = "MIT"
 authors = ["Ryan Brigden <rpb@hey.com>"]
